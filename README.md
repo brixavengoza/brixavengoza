@@ -4,16 +4,15 @@
 
 <img align="right" src="https://media.tenor.com/kyeZwDUF5N8AAAAd/coding.gif" width="220"/>
 
-### 💻 Senior Software Engineer
+### 💻 Frontend Developer
 
-I’m a **Software Engineer** with 3+ years of experience building high-performance web and mobile applications.  
-My focus is on **clean architecture**, **scalability**, and **AI-powered user experiences** — blending great design with developer efficiency.
+I’m a **Frontend Developer** with 3+ years of experience building high-performance web and mobile applications using **React**, **Next.js**, and **TypeScript**.  
+My focus is on **clean, scalable code**, **great UX**, and **building smooth user interfaces** that bring ideas to life.
 
-I’ve worked across product lifecycles — from architecture and API design to shipping polished frontends and mobile apps.
+Working closely with founders, designers, and engineers in fast paced startup environments, turning complex product ideas into working, production ready apps.
 
-- ⚡ Passionate about **developer tools**, **AI integrations**, and **data-driven interfaces**  
-- 🌍 Open to **remote or hybrid** roles (contract / full-time)  
-- 🚀 Always learning — recently exploring **distributed inference** and **AI automation**
+- ⚡ Passionate about **modern UI development**, **frontend performance**, and **AI-driven interfaces**
+- 🚀 Currently exploring **Fullstack MERN** **GOlang** and **backend frameworks** to expand my full-stack capabilities
 
 ---
 
@@ -49,20 +48,18 @@ I’ve worked across product lifecycles — from architecture and API design to 
 
 | Project | Description |
 |----------|--------------|
-| 🧠 **ResumeForge** *(in progress)* | AI-powered resume & cover letter builder with PDF export. Built using **Next.js**, **TypeScript**, and **OpenAI API**. |
-| 💬 **Function Chat** *(private)* | Cross-platform AI chat app with distributed inference and Supabase backend. |
-| 🛍 **Zoldr** *(private)* | Full-stack eCommerce system using **Next.js**, **Drizzle ORM**, and **tRPC**. |
-| 🧪 **TestGenie** *(concept)* | AI assistant that generates unit and e2e tests for React components. |
+| 💬 **Function Chat** | Cross-platform AI chat app with real-time messaging and Supabase backend. [iOS App](https://apps.apple.com/us/app/function-chat/id6737006521) |
+| 🛍 **E-commerce Platform** | Full-stack eCommerce system built with **Next.js**, **Supabase**, **Drizzle ORM**, **tRPC**, featuring product variants, cart, and checkout flows. |
+| 🔐 **Blockchain Wallet** | Contributed to UI/UX and wallet dashboard implementation. [Demo Video](https://vimeo.com/1132994535?share=copy&fl=sv&fe=ci) |
+| ❤️ **Flirty AI (Unpublished)** | AI-powered chat app similar to [Rizz](https://rizz.app/) that generates contextual messages. |
+| 🧠 **ResumeForge** *(in progress)* | Subscription Free AI-powered resume and cover letter builder with live preview and PDF export. |
 
 ---
 
-### 📊 GitHub Stats
+### 🌍 Previous Work
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrixAvengoza&show_icons=true&theme=tokyonight&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BrixAvengoza&theme=tokyonight" />
-</p>
+Worked with blockchain-focused and AI-driven startups — building internal tools, dashboards, and mobile apps used by real clients worldwide.  
+*(Some projects are under NDA but showcase full-stack production experience.)*
 
 ---
 
