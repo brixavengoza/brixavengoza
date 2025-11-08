@@ -6,13 +6,11 @@
 
 ### 💻 Frontend Developer
 
-I’m a **Frontend Developer** with 3+ years of experience building high-performance web and mobile applications using **React**, **Next.js**, and **TypeScript**.  
-My focus is on **clean, scalable code**, **great UX**, and **building smooth user interfaces** that bring ideas to life.
-
-Working closely with founders, designers, and engineers in fast paced startup environments, turning complex product ideas into working, production ready apps.
+Frontend Developer with 3+ years of experience building scalable web and mobile applications using Next.js, React Native, and Supabase. Specialized in clean architecture, developer eﬃciency, and creating intuitive with AI-driven user experiences. 
+Working closely with founders, designers, and engineers in fast paced startup environments, turning complex product ideas into working, production apps.
 
 - ⚡ Passionate about **modern UI development**, **frontend performance**, and **AI-driven interfaces**
-- 🚀 Currently exploring **Fullstack MERN** **GOlang** and **backend frameworks** to expand my full-stack capabilities
+- 🚀 Exploring **backend frameworks** to expand my full-stack capabilities
 
 ---
 
@@ -53,13 +51,6 @@ Working closely with founders, designers, and engineers in fast paced startup en
 | 🔐 **Blockchain Wallet** | Contributed to UI/UX and wallet dashboard implementation. [Demo Video](https://vimeo.com/1132994535?share=copy&fl=sv&fe=ci) |
 | ❤️ **Flirty AI (Unpublished)** | AI-powered chat app similar to [Rizz](https://rizz.app/) that generates contextual messages. |
 | 🧠 **ResumeForge** *(in progress)* | Subscription Free AI-powered resume and cover letter builder with live preview and PDF export. |
-
----
-
-### 🌍 Previous Work
-
-Worked with blockchain-focused and AI-driven startups — building internal tools, dashboards, and mobile apps used by real clients worldwide.  
-*(Some projects are under NDA but showcase full-stack production experience.)*
 
 ---
 
