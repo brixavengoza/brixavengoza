@@ -6,11 +6,7 @@
 
 ### 💻 Frontend Developer
 
-Frontend Developer with 3+ years of experience building scalable web and mobile applications using Next.js, React Native, and Supabase. Specialized in clean architecture, developer eﬃciency, and creating intuitive with AI-driven user experiences. 
-Working closely with founders, designers, and engineers in fast paced startup environments, turning complex product ideas into working, production apps.
-
-- ⚡ Passionate about **modern UI development**, **frontend performance**, and **AI-driven interfaces**
-- 🚀 Exploring **backend frameworks** to expand my full-stack capabilities
+Frontend Developer with 3+ years of experience building scalable web and mobile applications using Next.js, React Native, and Supabase
 
 ---
 
@@ -39,18 +35,6 @@ Working closely with founders, designers, and engineers in fast paced startup en
 #### 🧪 Testing
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|----------|--------------|
-| 💬 **Function Chat** | Cross-platform AI chat app with real-time messaging and Supabase backend. [iOS App](https://apps.apple.com/us/app/function-chat/id6737006521) |
-| 🛍 **E-commerce Platform** | Full-stack eCommerce system built with **Next.js**, **Supabase**, **Drizzle ORM**, **tRPC**, featuring product variants, cart, and checkout flows. |
-| 🔐 **Blockchain Wallet** | Contributed to UI/UX and wallet dashboard implementation. [Demo Video](https://vimeo.com/1132994535?share=copy&fl=sv&fe=ci) |
-| ❤️ **Flirty AI (Unpublished)** | AI-powered chat app similar to [Rizz](https://rizz.app/) that generates contextual messages. |
-| 🧠 **ResumeForge** *(in progress)* | Subscription Free AI-powered resume and cover letter builder with live preview and PDF export. |
 
 ---
 
